@@ -1,0 +1,17 @@
+﻿已經開始建置於 24/12/2017 16:47:41。
+     1>節點 2 (Build 目標) 上的專案 "C:\Users\i8\Desktop\106360207_曹嘉祐\p16\p16\p16\p16.vcxproj"。
+     1>ClCompile:
+         E:\C#\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Source.cpp
+         Source.cpp
+     1>c:\users\i8\desktop\106360207_曹嘉祐\p16\p16\p16\source.cpp(12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\c#\vc\include\stdio.h(211) : 請參閱 'fopen' 的宣告
+     1>c:\users\i8\desktop\106360207_曹嘉祐\p16\p16\p16\source.cpp(14): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getche. See online help for details.
+                 e:\c#\vc\include\conio.h(132) : 請參閱 'getche' 的宣告
+       Link:
+         E:\C#\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\i8\Desktop\106360207_曹嘉祐\p16\p16\Debug\p16.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\i8\Desktop\106360207_曹嘉祐\p16\p16\Debug\p16.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\i8\Desktop\106360207_曹嘉祐\p16\p16\Debug\p16.lib" /MACHINE:X86 Debug\Source.obj
+         p16.vcxproj -> C:\Users\i8\Desktop\106360207_曹嘉祐\p16\p16\Debug\p16.exe
+     1>專案 "C:\Users\i8\Desktop\106360207_曹嘉祐\p16\p16\p16\p16.vcxproj" (Build 目標) 建置完成。
+
+建置成功。
+
+經過時間 00:00:00.53
